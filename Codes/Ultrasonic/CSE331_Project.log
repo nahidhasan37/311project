@@ -1,0 +1,26 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo12 -N"D:\Tushar Faroque\Fall-19\CSE331(RSF)\Project\Codes\Ultrasonic\CSE331_Project.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\Tushar Faroque\Fall-19\CSE331(RSF)\Project\Codes\Ultrasonic\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "CSE331_Project.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+error: 10	304	 error: Can't open include file "xc.h"     #include <xc.h> 1 error in preprocessor.	D:\Tushar Faroque\Fall-19\CSE331(RSF)\Project\Codes\Ultrasonic\CSE331_Project.c
+warning: 0	1507	Unknown pragma line ignored: ''	CSE331_Project.c
+warning: 0	1507	Unknown pragma line ignored: ''	CSE331_Project.c
+warning: 0	1507	Unknown pragma line ignored: ''	CSE331_Project.c
+warning: 0	1507	Unknown pragma line ignored: ''	CSE331_Project.c
+warning: 0	1507	Unknown pragma line ignored: ''	CSE331_Project.c
+warning: 0	1507	Unknown pragma line ignored: ''	CSE331_Project.c
+warning: 0	1507	Unknown pragma line ignored: ''	CSE331_Project.c
+warning: 0	1507	Unknown pragma line ignored: ''	CSE331_Project.c
+diagnostics: 0	122	Compilation Started	CSE331_Project.c
+error: 25	318	Assigning to non-lvalue 'RD4'	CSE331_Project.c
+error: 27	318	Assigning to non-lvalue 'RD4'	CSE331_Project.c
+error: 30	318	Assigning to non-lvalue 'RD5'	CSE331_Project.c
+error: 32	318	Assigning to non-lvalue 'RD5'	CSE331_Project.c
+error: 35	318	Assigning to non-lvalue 'RD6'	CSE331_Project.c
+error: 37	318	Assigning to non-lvalue 'RD6'	CSE331_Project.c
+error: 40	318	Assigning to non-lvalue 'RD7'	CSE331_Project.c
+error: 42	318	Assigning to non-lvalue 'RD7'	CSE331_Project.c
+error: 47	318	Assigning to non-lvalue 'RD2'	CSE331_Project.c
+error: 49	318	Assigning to non-lvalue 'RD3'	CSE331_Project.c
+error: 50	324	Undeclared identifier '__delay_ms' in expression	CSE331_Project.c
+error: 51	318	Assigning to non-lvalue 'RD3'	CSE331_Project.c
+error: 52	312	Internal error ''	CSE331_Project.c
+error: 0	102	Finished (with errors): 22 Dec 2019, 19:05:36	CSE331_Project.mcppi
